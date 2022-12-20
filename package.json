@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/wujuno/instaclone-backend#readme",
   "dependencies": {
+    "@prisma/client": "^4.7.1",
     "apollo-server": "^2.25.2",
     "graphql": "^15.8.0"
   },
@@ -24,6 +25,7 @@
     "@babel/core": "^7.20.5",
     "@babel/node": "^7.20.5",
     "@babel/preset-env": "^7.20.2",
-    "nodemon": "^2.0.20"
+    "nodemon": "^2.0.20",
+    "prisma": "^4.7.1"
   }
 }
