@@ -3,5 +3,6 @@
 ### 배운 내용
 
 - gitignore extention
+- Babel의 필요성과 적용방법
 
 ### To do
