@@ -4,5 +4,7 @@
 
 - gitignore extention
 - Babel의 필요성과 적용방법
+- Prisma
+- postgresql, pgAdmin4
 
 ### To do
