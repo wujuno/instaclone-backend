@@ -8,6 +8,6 @@
 - postgresql, pgAdmin4
 - Prisma Migrate
 - p1001 error
-  = Prisma Client
+- Prisma Client
 
 ### To do
