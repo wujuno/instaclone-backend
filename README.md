@@ -13,6 +13,7 @@
 - graphql-tools
 - dotenv
 <hr/>
+
 - prisma pattern
 - hashing(bcrypt)
 - throw error
