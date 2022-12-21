@@ -9,5 +9,6 @@
 - Prisma Migrate
 - p1001 error
 - Prisma Client
+- Prisma Studio(database editor on browser)
 
 ### To do
