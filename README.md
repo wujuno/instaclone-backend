@@ -11,5 +11,6 @@
 - Prisma Client
 - Prisma Studio(database editor on browser)
 - graphql-tools
+- dotenv
 
 ### To do
