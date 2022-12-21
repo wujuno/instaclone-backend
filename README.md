@@ -12,5 +12,9 @@
 - Prisma Studio(database editor on browser)
 - graphql-tools
 - dotenv
+</hr>
+- prisma pattern
+- hashing(bcrypt)
+- throw error
 
 ### To do
