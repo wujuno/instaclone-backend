@@ -12,10 +12,11 @@
 - Prisma Studio(database editor on browser)
 - graphql-tools
 - dotenv
-</hr>
+<hr/>
 - prisma pattern
 - hashing(bcrypt)
 - throw error
 - Json Web token
+- Architecturing
 
 ### To do
