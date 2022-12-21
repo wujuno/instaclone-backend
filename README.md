@@ -16,5 +16,6 @@
 - prisma pattern
 - hashing(bcrypt)
 - throw error
+- Json Web token
 
 ### To do
