@@ -19,5 +19,7 @@
 - throw error
 - Json Web token
 - Architecturing
+- http headers
+- context(apollo server)
 
 ### To do
