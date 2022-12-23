@@ -16,4 +16,10 @@ export const getUser = async(authorization) => {
     } catch (error) {
         return null;
     }
+};
+
+export const protectResolver = (user)=>{
+    if(!user){
+        throw new Error("You need to login.")
+    }
 }
