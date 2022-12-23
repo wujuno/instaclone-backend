@@ -1,4 +1,0 @@
-/*babel/preset-env 는 우리의 코드가 괜찮은지, 아니면 변환되어야 하는지 판단해줌.*/
-{
-    "presets": ["@babel/preset-env"]
-}

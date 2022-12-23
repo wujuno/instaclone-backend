@@ -21,6 +21,6 @@
 - http headers
 - context(apollo server)
 - [protect resolvers(currying)](https://github.com/wujuno/instaclone-backend/commit/a85c3a1c6ebdedea1cf7d976ad192dd660875a12#diff-e261376bf4c0d71bc41f1ea4b5dc41b284c5d653f4ee8daccfa45adba52c4591R21-R28)
-- **TypeScript Setup**
+- TypeScript Setup
 
 ### To do
