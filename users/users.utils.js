@@ -18,8 +18,12 @@ export const getUser = async(authorization) => {
     }
 };
 
-export const protectResolver = (user)=>{
-    if(!user){
-        throw new Error("You need to login.")
+export const protectedResolver = (ourResolver) => (root,arg,context,info) => {
+    if(!context.loggedInUser){
+        return{
+            ok:false,
+            error:"Please login to perform this action."
+        }
     }
+    return ourResolver(root,arg,context,info);
 }

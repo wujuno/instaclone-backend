@@ -16,10 +16,11 @@
 
 - prisma pattern
 - hashing(bcrypt)
-- throw error
 - Json Web token
 - Architecturing
 - http headers
 - context(apollo server)
+- protect resolvers(currying)
+- TypeScript Setup
 
 ### To do
