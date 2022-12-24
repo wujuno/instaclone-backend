@@ -22,5 +22,13 @@
 - context(apollo server)
 - [protect resolvers(currying)](https://github.com/wujuno/instaclone-backend/commit/a85c3a1c6ebdedea1cf7d976ad192dd660875a12#diff-e261376bf4c0d71bc41f1ea4b5dc41b284c5d653f4ee8daccfa45adba52c4591R21-R28)
 - [TypeScript Setup](https://github.com/wujuno/instaclone-backend/commit/151424ffc1efc3a2a8969b2a88bbd144d859d54d)
+<hr/>
+
+- upload scalar
+- altair
+- fs(node.js filesystem)
+- cwd(current working directory)
+- apollo-server-express
+- morgan
 
 ### To do
