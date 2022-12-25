@@ -30,5 +30,8 @@
 - [cwd(current working directory)](https://github.com/wujuno/instaclone-backend/commit/d0f71696e2aaac01f7e90f1b2a62e15d4e69cc4a#diff-8aa33941d46d2e71e9178335270b3af27d8f67d0f232f6030505e7c1f94b0687R17)
 - [apollo-server-express](https://github.com/wujuno/instaclone-backend/commit/d0f71696e2aaac01f7e90f1b2a62e15d4e69cc4a#r94110977)
 - [morgan](https://github.com/wujuno/instaclone-backend/commit/d0f71696e2aaac01f7e90f1b2a62e15d4e69cc4a#diff-8a8ae07582c9d433ec8c2e5c4310ff8901e604f4965c5b90a49117ad46c47595R22)
+<hr/>
+
+- self-referencing relationship
 
 ### To do
