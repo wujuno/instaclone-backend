@@ -35,7 +35,7 @@
 - [self-referencing relationship](https://github.com/wujuno/instaclone-backend/commit/d0798b66ec357bda23548954882a74819e8fc5dc#r94155339)
 - [connect(in resolver)](https://github.com/wujuno/instaclone-backend/commit/3ed5cf4100e345c448fafa622d00a1d8250bb1f7#diff-ac4e0346647a716aaf5b0d071caf658eaac7736bca235fb3b9e1537402bdd5acR20-R21)
 - [include(in resolver)](https://github.com/wujuno/instaclone-backend/commit/87c1cdd1203e7e78b007d853f1deb14d582bb8b5#r94158413)
-- pasination
-- computed field
+- [pasination](https://github.com/wujuno/instaclone-backend/commit/0ff6d9217c20a2d0e756fe74c4d56bc5826b72d8)
+- [computed field](https://github.com/wujuno/instaclone-backend/commit/49d8255c2cad48aa063ddb5616d00efaba1d936f#r94173020)
 
 ### To do
