@@ -36,5 +36,6 @@
 - [connect(in resolver)](https://github.com/wujuno/instaclone-backend/commit/3ed5cf4100e345c448fafa622d00a1d8250bb1f7#diff-ac4e0346647a716aaf5b0d071caf658eaac7736bca235fb3b9e1537402bdd5acR20-R21)
 - [include(in resolver)](https://github.com/wujuno/instaclone-backend/commit/87c1cdd1203e7e78b007d853f1deb14d582bb8b5#r94158413)
 - pasination
+- computed field
 
 ### To do
