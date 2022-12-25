@@ -33,6 +33,8 @@
 <hr/>
 
 - [self-referencing relationship](https://github.com/wujuno/instaclone-backend/commit/d0798b66ec357bda23548954882a74819e8fc5dc#r94155339)
-- [following, connect(in resolver)]()
+- [connect(in resolver)](https://github.com/wujuno/instaclone-backend/commit/3ed5cf4100e345c448fafa622d00a1d8250bb1f7#diff-ac4e0346647a716aaf5b0d071caf658eaac7736bca235fb3b9e1537402bdd5acR20-R21)
+- include(in resolver)
+- pasination
 
 ### To do
