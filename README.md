@@ -32,6 +32,6 @@
 - [morgan](https://github.com/wujuno/instaclone-backend/commit/d0f71696e2aaac01f7e90f1b2a62e15d4e69cc4a#diff-8a8ae07582c9d433ec8c2e5c4310ff8901e604f4965c5b90a49117ad46c47595R22)
 <hr/>
 
-- self-referencing relationship
+- [self-referencing relationship](https://github.com/wujuno/instaclone-backend/commit/d0798b66ec357bda23548954882a74819e8fc5dc#r94155339)
 
 ### To do
