@@ -39,4 +39,8 @@
 - [computed field](https://github.com/wujuno/instaclone-backend/commit/49d8255c2cad48aa063ddb5616d00efaba1d936f#r94173020)
 <hr/>
 
+- referencing relationship
+- Regular Expression(eject english&korean)
+- connectOrCreate
+
 ### To do

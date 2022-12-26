@@ -8,7 +8,7 @@ const resolvers:Resolvers = {
                 {
                     where:{
                         userName:{
-                            startsWith:keyword
+                            startsWith:keyword.toLowerCase()
                         }
                     },
                     skip: lastId ? 1 : 0,
