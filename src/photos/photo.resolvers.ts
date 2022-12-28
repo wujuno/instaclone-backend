@@ -12,7 +12,17 @@ const resolvers:Resolvers = {
                 }
             }
             ) 
+    },
+    Hashtag: {
+        photos: ({id},{page},{client}) => {
+            return client.hashtag.findUnique({where:{id}}).photos()
+        },
+        totalPhotos: ({id},_,{client})=> client.photo.count(
+            {where:{hashtag:{some:{id}}}}
+        )
+        
     }
+
 }   
 
 export default resolvers;
