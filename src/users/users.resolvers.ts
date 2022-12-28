@@ -38,7 +38,8 @@ const resolvers:Resolvers = {
                 .findUnique({where:{userName:loggedInUser.userName}})
                 .following({where:{id}});
             return exists.length !== 0
-        }
+        },
+        photos: ({id},_,{client})=> client.user.findUnique({where:{id}}).photos()
     }
 }
 

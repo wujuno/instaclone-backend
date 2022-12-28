@@ -1,5 +1,6 @@
 import { Resolvers } from "../../types";
 import { protectedResolver } from "../../users/users.utils";
+import { processHashtag } from "../photos.utils";
 
 
 const resolvers:Resolvers = {
@@ -8,8 +9,7 @@ const resolvers:Resolvers = {
             async (_,{file,caption},{loggedInUser,client})=> {
                 let hashtagsObj = []
                 if(caption){
-                    const hashtags = caption.match(/#[ㄱ-ㅎ|ㅏ-ㅣ|가-힣|\w]+/g);
-                    hashtagsObj = hashtags.map(hashtag => ({where:{hashtag}, create:{hashtag}}));
+                    hashtagsObj = processHashtag(caption)
                 }
                 const photo = await client.photo.create({
                     data:{
