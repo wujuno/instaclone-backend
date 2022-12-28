@@ -42,5 +42,8 @@
 - referencing relationship
 - [Regular Expression(eject english&korean)](https://github.com/wujuno/instaclone-backend/commit/8dd20b978bd54d93aaa2ba57762032072c0f21c7#diff-bef84fe3cd3702f8156ddae337c675f5b8d272b74d7779c2e3f0b1324a71dcd2R11)
 - [connectOrCreate](https://github.com/wujuno/instaclone-backend/commit/8dd20b978bd54d93aaa2ba57762032072c0f21c7#diff-bef84fe3cd3702f8156ddae337c675f5b8d272b74d7779c2e3f0b1324a71dcd2R23-R24)
+<hr/>
+
+- compound Unique
 
 ### To do
