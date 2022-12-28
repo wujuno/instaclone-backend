@@ -12,7 +12,15 @@ const resolvers:Resolvers = {
                 }
             }
             ),
-        likes: (_,{id},{client})=> client.like.count({where:{photoId:id}})
+        likes: (_,{id},{client})=> client.like.count({where:{photoId:id}}),
+        comments: ({id},_,{client}) => client.comment.count({where:{photoId:id}}),
+        isMine: async ({ownerId},_,{loggedInUser}) => {
+            if(!loggedInUser){
+                return false
+            }
+            return ownerId === loggedInUser.id
+        }
+        
     },
     Hashtag: {
         photos: ({id},{page},{client}) => {
