@@ -44,6 +44,6 @@
 - [connectOrCreate](https://github.com/wujuno/instaclone-backend/commit/8dd20b978bd54d93aaa2ba57762032072c0f21c7#diff-bef84fe3cd3702f8156ddae337c675f5b8d272b74d7779c2e3f0b1324a71dcd2R23-R24)
 <hr/>
 
-- compound Unique
+- [compound Unique](https://github.com/wujuno/instaclone-backend/commit/4eca80f842e07bc2f7b4594b17e6cb4706e3249f#diff-c20c1531c47c3ee2f825783820dfd2f8385c763fc11fd9db54921e79c8dca235R27-R29)
 
 ### To do
