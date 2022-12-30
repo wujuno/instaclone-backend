@@ -46,5 +46,6 @@
 
 - [compound Unique](https://github.com/wujuno/instaclone-backend/commit/4eca80f842e07bc2f7b4594b17e6cb4706e3249f#diff-c20c1531c47c3ee2f825783820dfd2f8385c763fc11fd9db54921e79c8dca235R27-R29)
 - [select and include](https://github.com/wujuno/instaclone-backend/commit/7aca3a1b06b0663f0ee672c3193c877a022105d4#r94400342)
+- info argument
 
 ### To do

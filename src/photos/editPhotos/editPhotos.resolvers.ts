@@ -24,7 +24,7 @@ const resolvers:Resolvers = {
                         error: "Photo not found."
                     }
                 }
-                const photo = await client.photo.update(
+                await client.photo.update(
                     {
                         where:{
                             id
@@ -41,7 +41,6 @@ const resolvers:Resolvers = {
                 )
                 return {
                     ok: true,
-                    photo,
                 }
             }
         )

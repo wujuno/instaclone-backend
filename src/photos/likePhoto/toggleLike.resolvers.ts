@@ -5,7 +5,7 @@ const resolvers:Resolvers = {
     Mutation: {
         toggleLike: protectedResolver(
             async(_,{id},{client,loggedInUser})=>{
-                const photo = await client.user.findUnique({where:{id}})
+                const photo = await client.photo.findUnique({where:{id}})
                 if (!photo){
                     return{
                         ok: false,
