@@ -7,7 +7,7 @@ export default gql`
         error: String
     }
     type Mutation {
-        uploadPhoto(file:String, caption: String): UploadPhotoResult!
+        uploadPhoto(file:Upload!, caption: String): UploadPhotoResult!
     }
 `;
 

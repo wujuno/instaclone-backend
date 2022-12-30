@@ -46,6 +46,8 @@
 
 - [compound Unique](https://github.com/wujuno/instaclone-backend/commit/4eca80f842e07bc2f7b4594b17e6cb4706e3249f#diff-c20c1531c47c3ee2f825783820dfd2f8385c763fc11fd9db54921e79c8dca235R27-R29)
 - [select and include](https://github.com/wujuno/instaclone-backend/commit/7aca3a1b06b0663f0ee672c3193c877a022105d4#r94400342)
-- info argument
+- [info argument](https://github.com/wujuno/instaclone-backend/commit/5114ebab9591a9b55afda0b9698544fd7325fd14#diff-a1e0ba925be95bdc9497880f5f0127d1d750b5b0802bed33b80a16207584bf82R22-R31)
+- aws-sdk
+- S3
 
 ### To do
